@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://github.com/sriwaugh/sriwaugh/blob/main/how-does-code-integrity-work.gif)
 <h1 align="center">Hi 👋, I'm Sriwaugh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
