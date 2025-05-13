@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriwaugh&show_icons=true&locale=en" alt="sriwaugh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriwaugh&" alt="sriwaugh" /></p>
-i would like t add python in above code
